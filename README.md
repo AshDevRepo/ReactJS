@@ -1,2 +1,2 @@
 # ReactJS
-Picture Gallery application that show details 
+Picture Gallery application that show details of selected pictures
